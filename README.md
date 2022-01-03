@@ -8,4 +8,4 @@ Download pre-trained models and pre-calculated database encodings from [here](ht
 # Demo
 Test on a single image from the Cyclists dataset:
 
-'python demo.py --test_obj_img test_cyclist.jpg'
+`python demo.py --test_obj_img test_cyclist.jpg`
