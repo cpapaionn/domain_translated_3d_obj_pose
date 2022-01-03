@@ -2,7 +2,7 @@
 
 This is the official implementation of the paper [Domain-Translated 3D Object Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9206072).
 
-# Instalation
+# Installation
 - Tested both with Python 2.7 and Python 3.6
 - Keras 2.3
 - OpenCV
