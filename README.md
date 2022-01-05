@@ -2,16 +2,16 @@
 
 This is the official implementation of the paper [Domain-Translated 3D Object Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9206072).
 
-# Installation
+## Installation
 - Tested both with Python 2.7 and Python 3.6
 - Keras 2.3
 - OpenCV
 - scipy 1.1
 
-# Preparation
+## Preparation
 Download pre-trained models and pre-calculated database encodings from [here](https://drive.google.com/file/d/1CT1FiiXMNm0l7n7PRn2tgU5VTqQJ2Gwg/view?usp=sharing). Extract the .zip file and place the directory 'pose_models' in the project ROOT directory.
 
-# Demo
+## Demo
 Test on a single image from the Cyclists dataset:
 
 `python demo.py --test_obj_img test_cyclist.jpg`
@@ -22,7 +22,7 @@ Test on a single image from the LineMod dataset:
 
 You can also run `python demo.py --help` to see more usage options (visualization, etc.).
 
-# Citation
+## Citation
 If you use this code please cite our work:
 
 ```
